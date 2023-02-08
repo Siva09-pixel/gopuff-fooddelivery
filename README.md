@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 Gopuff-Fooddelivery.\
+Grab on the link:
+https://jovial-blancmange-082361.netlify.app/
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
